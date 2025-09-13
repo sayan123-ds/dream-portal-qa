@@ -36,4 +36,4 @@ export class DiaryPage {
       dreamTypes
     };
   }
-}
+}//test
